@@ -3,7 +3,6 @@
 ## Introduction
 
 This is a capstone project for the Udacity DataEngineering Nanodegree.
-The purpose of the data engineering capstone project is to give you a chance to combine everything learned throughout the program. 
 
 #### Datasets
 We are going to work with 3 different datasets and try to combine them in a useful way to extract meaningful information.
