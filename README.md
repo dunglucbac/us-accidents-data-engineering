@@ -168,7 +168,7 @@ us-accidents-data-engineering
 
 #### Step 1: Clone repository to local machine
 ```
-git clone git@github.com:dunglucbac/us-accidents-data-engineering.git
+git clone https://github.com/dunglucbac/us-accidents-data-engineering.git
 ```
 
 #### Step 2: Create python virtual environment
